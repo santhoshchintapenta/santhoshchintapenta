@@ -1,6 +1,20 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://santhoshchintapenta.vercel.app/)
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://santhoshchintapenta.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋;I'm+Santhosh+Chintapenta!;Full+Stack+Developer;React+%26+MERN+Stack;Building+Scalable+Web+Apps+🚀;Have+a+Great+Day+🌞&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=35">
+  </a>
+</p>
+
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&text=Hey%20I'm%20Santhosh%20Chintapenta&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=React%20%26%20MERN%20Stack%20Developer&descFontSize=20&descFontColor=58a6ff&descAlignY=70" width="90%" />
+</p>
+
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+
 <!-- Header Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santhosh%20Chintapenta&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=React%20%26%20MERN%20Stack%20Developer&descAlignY=60&descColor=a0aec0" width="100%"/>
