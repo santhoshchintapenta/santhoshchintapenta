@@ -1,3 +1,6 @@
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://santhoshchintapenta.vercel.app/)
+
 <!-- Header Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santhosh%20Chintapenta&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=React%20%26%20MERN%20Stack%20Developer&descAlignY=60&descColor=a0aec0" width="100%"/>
