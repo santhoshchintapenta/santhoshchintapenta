@@ -10,22 +10,10 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&text=Hey%20I'm%20Santhosh%20Chintapenta&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=React%20%26%20MERN%20Stack%20Developer&descFontSize=20&descFontColor=58a6ff&descAlignY=70" width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=100&lines=Hey+I%27m+Santhosh+Chintapenta!;React+%26+MERN+Stack+Developer+%F0%9F%9A%80" alt="Hero Banner" />
 </p>
 
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
-
-<!-- Header Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santhosh%20Chintapenta&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=React%20%26%20MERN%20Stack%20Developer&descAlignY=60&descColor=a0aec0" width="100%"/>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://santhoshchintapenta.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=58a6ff&size=22&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Santhosh+👋;Full+Stack+Developer+%7C+MERN+Stack;React+%26+JavaScript+Enthusiast;CS+Undergrad+%40+ANITS%2C+Vizag;Building+Scalable+Web+Apps+🚀;Always+Learning%2C+Always+Building!" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
@@ -198,7 +186,7 @@ const santhosh = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
 <p align="center">
